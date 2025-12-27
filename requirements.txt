@@ -4,6 +4,7 @@ fastapi
 uvicorn
 pydantic
 sse_starlette
-FAISS
 Chroma
 langchain-ollama
+arxiv
+wikipedia
